@@ -4,11 +4,18 @@ Public equity Investment Management tool for potential opportunities and current
 
 Feature
 =========================
-- To automate the boring tasks of getting information in the company financial statements and market price information;
-- To screen stock based on custom conditions featuring capability beyond the available stock screener;
-- To visualizes and compare all the investments opportunities (including cross-assets comparison);
-- To manage and update all the financial models;
-- To visualizes and monitors the current holdings given key marco-economic risk factors including central bank rates and inflation data;
+1. Stock screener
+   - To screen stock based on more powerful and flexible custom criteria using Data Science Library Pandas, NumPy;
+   - Unique custom screening criteria using custom variables
+   - Ex: EV = capitalization_report + total_debt + MinorityInterest - CashAndCashEquivalents - total_nonop_assets * 0.5
+
+2. Stock model management
+   - To automate the boring tasks of getting information in the company financial statements and market price information;
+   - To manage and update all the financial models;
+
+3. Opportunities and current holdings Monitor
+   - To visualizes and compare all the investments opportunities (including cross-assets comparison);
+   - To visualizes and monitors the current holdings given key marco-economic risk factors including central bank rates and inflation data;
 
 Stock idea Generation and Analysis Methodology
 =========================
@@ -18,11 +25,7 @@ Stock idea Generation and Analysis Methodology
 
 Architecture
 =========================
-Tools:
-1. stock screener
-2. stock model management
-3. opportunities monitor
-4. current holding monitor
+TBA
 
 Preview
 =========================
