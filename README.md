@@ -19,8 +19,8 @@ Feature
 
 Stock idea Generation and Analysis Methodology
 =========================
-1. Use Public Screening tools to find <300 stocks potential ideas
-2. Use Custom Screening tool to narrow down the search to <20 stocks
+1. Use Public Screening tools to find ~1000 potential ideas
+2. Use Custom Screening tool to narrow down the search to <50 stocks
 3. Use Financial model to analyze the stock Individually
 ![](https://github.com/JerryChenz/InvestmentManagementOpen/blob/main/screenshoots/idea_funnel_1.PNG)
 
