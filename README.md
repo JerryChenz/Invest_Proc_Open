@@ -5,7 +5,7 @@ Public equity Investment Management tool for potential opportunities and current
 Feature
 =========================
 1. Stock screener
-   - To screen stock based on more powerful and flexible custom criteria using Data Science Library Pandas, NumPy;
+   - To screen stock based on more powerful and flexible custom criteria;
    - Unique custom screening criteria using custom variables
    - Ex: EV = capitalization_report + total_debt + MinorityInterest - CashAndCashEquivalents - total_nonop_assets * 0.5
 
