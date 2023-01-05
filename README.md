@@ -29,6 +29,10 @@ Preview
 1. Stock screener
 ![](https://github.com/JerryChenz/InvestmentManagementOpen/blob/main/screenshoots/Screenshot_screener_1.PNG)
 ![](https://github.com/JerryChenz/InvestmentManagementOpen/blob/main/screenshoots/Screenshot_screener_2.PNG)
+2. Stock model management
+![](https://github.com/JerryChenz/InvestmentManagementOpen/blob/main/screenshoots/ModelManagement_1.PNG)
+3. Opportunities monitor
+![](https://github.com/JerryChenz/InvestmentManagementOpen/blob/main/screenshoots/Monitor_1.PNG)
 
 Data sources
 =========================
