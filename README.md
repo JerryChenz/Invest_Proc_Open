@@ -30,15 +30,15 @@ Workflow
 
 Preview
 =========================
-![](https://github.com/JerryChenz/InvestmentManagementOpen/blob/main/screenshoots/Invest_Proc Tool Summary_1.jpg)
-![](https://github.com/JerryChenz/InvestmentManagementOpen/blob/main/screenshoots/Invest_Proc Tool Summary_2.jpg)
-![](https://github.com/JerryChenz/InvestmentManagementOpen/blob/main/screenshoots/Invest_Proc Tool Summary_3.jpg)
-![](https://github.com/JerryChenz/InvestmentManagementOpen/blob/main/screenshoots/Invest_Proc Tool Summary_4.jpg)
-![](https://github.com/JerryChenz/InvestmentManagementOpen/blob/main/screenshoots/Invest_Proc Tool Summary_5.jpg)
-![](https://github.com/JerryChenz/InvestmentManagementOpen/blob/main/screenshoots/Invest_Proc Tool Summary_6.jpg)
-![](https://github.com/JerryChenz/InvestmentManagementOpen/blob/main/screenshoots/Invest_Proc Tool Summary_7.jpg)
-![](https://github.com/JerryChenz/InvestmentManagementOpen/blob/main/screenshoots/Invest_Proc Tool Summary_8.jpg)
-![](https://github.com/JerryChenz/InvestmentManagementOpen/blob/main/screenshoots/Invest_Proc Tool Summary_9.jpg)
+![](https://github.com/JerryChenz/InvestmentManagementOpen/blob/main/screenshoots/Invest_Proc_Tool_Summary_1.jpg)
+![](https://github.com/JerryChenz/InvestmentManagementOpen/blob/main/screenshoots/Invest_Proc_Tool_Summary_2.jpg)
+![](https://github.com/JerryChenz/InvestmentManagementOpen/blob/main/screenshoots/Invest_Proc_Tool_Summary_3.jpg)
+![](https://github.com/JerryChenz/InvestmentManagementOpen/blob/main/screenshoots/Invest_Proc_Tool_Summary_4.jpg)
+![](https://github.com/JerryChenz/InvestmentManagementOpen/blob/main/screenshoots/Invest_Proc_Tool_Summary_5.jpg)
+![](https://github.com/JerryChenz/InvestmentManagementOpen/blob/main/screenshoots/Invest_Proc_Tool_Summary_6.jpg)
+![](https://github.com/JerryChenz/InvestmentManagementOpen/blob/main/screenshoots/Invest_Proc_Tool_Summary_7.jpg)
+![](https://github.com/JerryChenz/InvestmentManagementOpen/blob/main/screenshoots/Invest_Proc_Tool_Summary_8.jpg)
+![](https://github.com/JerryChenz/InvestmentManagementOpen/blob/main/screenshoots/Invest_Proc_Tool_Summary_9.jpg)
 
 Data sources
 =========================
