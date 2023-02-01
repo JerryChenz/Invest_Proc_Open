@@ -22,23 +22,23 @@ Stock idea Generation and Analysis Methodology
 1. Use Custom Screening tool to narrow down the search to ~100 stocks and sorted by specific parameter
 2. Use Financial model to analyze the stock Individually and find <50 stocks
 3. Use Monitor to track and act on the opportunities
-![](https://github.com/JerryChenz/InvestmentManagementOpen/blob/main/screenshoots/idea_funnel_1.PNG)
+![](https://github.com/JerryChenz/Invest_Proc_Open/blob/main/screenshoots/idea_funnel_1.PNG)
 
 Workflow
 =========================
-![](https://github.com/JerryChenz/InvestmentManagementOpen/blob/main/screenshoots/Investment_Analysis_Workflow.jpg)
+![](https://github.com/JerryChenz/Invest_Proc_Open/blob/main/screenshoots/Investment_Analysis_Workflow.jpg)
 
 Preview
 =========================
-![](https://github.com/JerryChenz/InvestmentManagementOpen/blob/main/screenshoots/Invest_Proc_Tool_Summary_1.png)
-![](https://github.com/JerryChenz/InvestmentManagementOpen/blob/main/screenshoots/Invest_Proc_Tool_Summary_2.png)
-![](https://github.com/JerryChenz/InvestmentManagementOpen/blob/main/screenshoots/Invest_Proc_Tool_Summary_3.png)
-![](https://github.com/JerryChenz/InvestmentManagementOpen/blob/main/screenshoots/Invest_Proc_Tool_Summary_4.png)
-![](https://github.com/JerryChenz/InvestmentManagementOpen/blob/main/screenshoots/Invest_Proc_Tool_Summary_5.png)
-![](https://github.com/JerryChenz/InvestmentManagementOpen/blob/main/screenshoots/Invest_Proc_Tool_Summary_6.png)
-![](https://github.com/JerryChenz/InvestmentManagementOpen/blob/main/screenshoots/Invest_Proc_Tool_Summary_7.png)
-![](https://github.com/JerryChenz/InvestmentManagementOpen/blob/main/screenshoots/Invest_Proc_Tool_Summary_8.png)
-![](https://github.com/JerryChenz/InvestmentManagementOpen/blob/main/screenshoots/Invest_Proc_Tool_Summary_9.png)
+![](https://github.com/JerryChenz/Invest_Proc_Open/blob/main/screenshoots/Invest_Proc_Summary_1.png)
+![](https://github.com/JerryChenz/Invest_Proc_Open/blob/main/screenshoots/Invest_Proc_Summary_2.png)
+![](https://github.com/JerryChenz/Invest_Proc_Open/blob/main/screenshoots/Invest_Proc_Summary_3.png)
+![](https://github.com/JerryChenz/Invest_Proc_Open/blob/main/screenshoots/Invest_Proc_Summary_4.png)
+![](https://github.com/JerryChenz/Invest_Proc_Open/blob/main/screenshoots/Invest_Proc_Summary_5.png)
+![](https://github.com/JerryChenz/Invest_Proc_Open/blob/main/screenshoots/Invest_Proc_Summary_6.png)
+![](https://github.com/JerryChenz/Invest_Proc_Open/blob/main/screenshoots/Invest_Proc_Summary_7.png)
+![](https://github.com/JerryChenz/Invest_Proc_Open/blob/main/screenshoots/Invest_Proc_Summary_8.png)
+![](https://github.com/JerryChenz/Invest_Proc_Open/blob/main/screenshoots/Invest_Proc_Summary_9.png)
 
 Data sources
 =========================
