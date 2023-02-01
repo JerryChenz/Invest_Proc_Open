@@ -30,13 +30,15 @@ Workflow
 
 Preview
 =========================
-1. Stock screener
-![](https://github.com/JerryChenz/InvestmentManagementOpen/blob/main/screenshoots/Screenshot_screener_1.PNG)
-![](https://github.com/JerryChenz/InvestmentManagementOpen/blob/main/screenshoots/Screenshot_screener_2.PNG)
-2. Stock model management
-![](https://github.com/JerryChenz/InvestmentManagementOpen/blob/main/screenshoots/ModelManagement_1.PNG)
-3. Opportunities monitor
-![](https://github.com/JerryChenz/InvestmentManagementOpen/blob/main/screenshoots/Monitor_1.PNG)
+![](https://github.com/JerryChenz/InvestmentManagementOpen/blob/main/screenshoots/Invest_Proc Tool Summary v1.1-1.jpg)
+![](https://github.com/JerryChenz/InvestmentManagementOpen/blob/main/screenshoots/Invest_Proc Tool Summary v1.1-2.jpg)
+![](https://github.com/JerryChenz/InvestmentManagementOpen/blob/main/screenshoots/Invest_Proc Tool Summary v1.1-3.jpg)
+![](https://github.com/JerryChenz/InvestmentManagementOpen/blob/main/screenshoots/Invest_Proc Tool Summary v1.1-4.jpg)
+![](https://github.com/JerryChenz/InvestmentManagementOpen/blob/main/screenshoots/Invest_Proc Tool Summary v1.1-5.jpg)
+![](https://github.com/JerryChenz/InvestmentManagementOpen/blob/main/screenshoots/Invest_Proc Tool Summary v1.1-6.jpg)
+![](https://github.com/JerryChenz/InvestmentManagementOpen/blob/main/screenshoots/Invest_Proc Tool Summary v1.1-7.jpg)
+![](https://github.com/JerryChenz/InvestmentManagementOpen/blob/main/screenshoots/Invest_Proc Tool Summary v1.1-8.jpg)
+![](https://github.com/JerryChenz/InvestmentManagementOpen/blob/main/screenshoots/Invest_Proc Tool Summary v1.1-9.jpg)
 
 Data sources
 =========================
