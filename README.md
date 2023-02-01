@@ -2,7 +2,7 @@ Investment Management
 =========================
 Public equity Investment Management tool for potential opportunities and current holdings.
 
-Feature
+Features
 =========================
 1. Stock screener
    - To screen stock based on more powerful and flexible custom criteria;
@@ -17,18 +17,7 @@ Feature
    - To visualizes and compare all the investments opportunities (including cross-assets comparison);
    - To visualizes and monitors the current holdings given key marco-economic risk factors including central bank rates and inflation data;
 
-Stock idea Generation and Analysis Methodology
-=========================
-1. Use Custom Screening tool to narrow down the search to ~100 stocks and sorted by specific parameter
-2. Use Financial model to analyze the stock Individually and find <50 stocks
-3. Use Monitor to track and act on the opportunities
-![](https://github.com/JerryChenz/Invest_Proc_Open/blob/main/screenshoots/idea_funnel_1.PNG)
-
-Workflow
-=========================
-![](https://github.com/JerryChenz/Invest_Proc_Open/blob/main/screenshoots/Investment_Analysis_Workflow.jpg)
-
-Preview
+Summary
 =========================
 ![](https://github.com/JerryChenz/Invest_Proc_Open/blob/main/screenshoots/Invest_Proc_Summary_1.png)
 ![](https://github.com/JerryChenz/Invest_Proc_Open/blob/main/screenshoots/Invest_Proc_Summary_2.png)
@@ -39,6 +28,10 @@ Preview
 ![](https://github.com/JerryChenz/Invest_Proc_Open/blob/main/screenshoots/Invest_Proc_Summary_7.png)
 ![](https://github.com/JerryChenz/Invest_Proc_Open/blob/main/screenshoots/Invest_Proc_Summary_8.png)
 ![](https://github.com/JerryChenz/Invest_Proc_Open/blob/main/screenshoots/Invest_Proc_Summary_9.png)
+
+Workflow
+=========================
+![](https://github.com/JerryChenz/Invest_Proc_Open/blob/main/screenshoots/Investment_Analysis_Workflow.jpg)
 
 Data sources
 =========================
