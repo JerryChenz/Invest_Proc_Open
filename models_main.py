@@ -8,6 +8,12 @@ def gen_val_xlsx(ticker):
     smart_value.tools.stock_model.new_stock_model(ticker)
 
 
+def update_val_xlsx(ticker):
+    """Update dashboard only, not touching the data tab"""
+
+    smart_value.tools.stock_model.update_dash(ticker)
+
+
 def days_between(d1, d2):
     d1 = datetime.strptime(d1, "%Y-%m-%d")
     d2 = datetime.strptime(d2, "%Y-%m-%d")
@@ -15,7 +21,7 @@ def days_between(d1, d2):
 
 
 if __name__ == '__main__':
-    stare_list = ['0806.HK']
+    stare_list = ['1972.HK']
     for s in stare_list:
         gen_val_xlsx(s)
-    # update_opportunities()
+        # update_val_xlsx(s)
